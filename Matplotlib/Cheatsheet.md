@@ -12,21 +12,21 @@ For the convenience to look up, I convert the pdf file in this repository to pic
 
 ### Cheatsheet
 
-![cheatsheet-1](../readme.assets/cheatsheet-1.png)
+![cheatsheet-1](Note.assets/cheatsheet-1.png)
 
-![cheatsheet-2](../readme.assets/cheatsheet-2.png)
+![cheatsheet-2](Note.assets/cheatsheet-2.png)
 
 
 ### Handouts
 
 #### Beginner handout
 
-![handout-beginner](../readme.assets/handout-beginner.jpg)
+![handout-beginner](Note.assets/handout-beginner.jpg)
 
 #### Intermediate handout
 
-![handout-intermediate](../readme.assets/handout-intermediate.jpg)
+![handout-intermediate](Note.assets/handout-intermediate.jpg)
 
 #### Tips handout
 
-![handout-tips](../readme.assets/handout-tips.jpg)
+![handout-tips](Note.assets/handout-tips.jpg)
