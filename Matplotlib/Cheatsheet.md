@@ -1,11 +1,10 @@
 # Matplotlob
-This repository records some of my practice codes. most of them are from [Quick-start guide](https://matplotlib.org/3.5.1/tutorials/introductory/usage.html)
+Most of the practice codes are from [Quick-start guide](https://matplotlib.org/3.5.1/tutorials/introductory/usage.html)
 
 ## Cheatsheet
 
 The official cheatsheet repository:
 
-[![](https://img.shields.io/badge/web-GitHub-green)](https://github.com/matplotlib/cheatsheets)
 [matplotlib/cheatsheets](https://github.com/matplotlib/cheatsheets)
 
 For the convenience to look up, I convert the pdf file in this repository to picture.
